@@ -1,2 +1,2 @@
-# machine-learning-course
-Machine learning course
+# Machine learning course
+Курс по основам машинного обучения
